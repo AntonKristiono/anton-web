@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://antonkristiono.netlify.app',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Anton Kristiono',
+  subtitle: 'Javascript Programmer, Serverless Enthusiast, Jamstack Enthusiast',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -22,22 +22,26 @@ module.exports = {
     {
       label: 'Contact me',
       path: '/pages/contacts'
+    },
+    {
+      label: 'Portfolio',
+      path: 'https://anton-portfolio.netlify.app'
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Anton Kristiono',
+    photo: '/an.png',
+    bio: 'Javascript Programmer, Serverless Enthusiast, Jamstack Enthusiast',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'antonkristiono47@gmail.com',
+      facebook: 'antonkristiono',
+      telegram: 'antonkristiono',
+      twitter: 'antonkristiono',
+      github: 'antonkristiono',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'antonkristiono',
+      instagram: 'antonkristiono',
       line: '',
       gitlab: '',
       weibo: '',
