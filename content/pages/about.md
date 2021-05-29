@@ -1,13 +1,38 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/blake-connally.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I am a Software Engineer and Graphic Designer. Currently, I am a front-end developer at PT. Indonesian Card Technology for two years and freelance full-stack developer and Graphic Designer for four years.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+<!-- ![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/blake-connally.jpg) -->
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+![ ](/media/blake-connally.jpg)
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+<!-- *Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.* -->
+
+The programming languages that I often use are:
+1. Javascript
+2. Firebase
+3. Supabase
+4. Python
+5. Recently very interested in learning Rust and Go.
+
+the framework that I use often:
+1. Next.Js,
+2. Gatsby.Js,
+3. Express.Js,
+4. Loopback.Js,
+5. Redwood.Js,
+6. Strapi.Js,
+7. Django.
+
+The database I've used
+1. Mongodb
+2. Mysql3
+3. Sqlite3,
+4. Postgresql.
+5. FaunaDB
+
+I have also been interested in Jamstack and Serverless lately.
