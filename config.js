@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://antonkristiono.netlify.app',
   pathPrefix: '/',
   title: 'Blog by Anton Kristiono',
-  subtitle: 'Javascript Programmer, Serverless Enthusiast, Jamstack Enthusiast',
+  subtitle: 'Designer | Software Engginer',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -31,7 +31,7 @@ module.exports = {
   author: {
     name: 'Anton Kristiono',
     photo: '/an.png',
-    bio: 'Javascript Programmer, Serverless Enthusiast, Jamstack Enthusiast',
+    bio: 'Designer | Software Engginer',
     contacts: {
       email: 'antonkristiono47@gmail.com',
       facebook: 'antonkristiono',
