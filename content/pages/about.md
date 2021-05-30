@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/media/blake-connally.jpg"
 ---
 
-I am a Software Engineer and Graphic Designer. Currently, I am a front-end developer at PT. Indonesian Card Technology for two years and freelance full-stack developer and Graphic Designer for four years.
+I am a Software Engineer and Graphic Designer. Currently, I am a front-end developer at [PT. Teknologi Kartu Indonesia](https://solusinegeri.com) for two years and freelance full-stack developer and Graphic Designer for four years.
 
 <!-- ![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/blake-connally.jpg) -->
 
