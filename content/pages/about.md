@@ -13,11 +13,9 @@ I am a Software Engineer and Graphic Designer. Currently, I am a front-end devel
 <!-- *Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.* -->
 
 The programming languages that I often use are:
-1. Javascript
-2. Firebase
-3. Supabase
-4. Python
-5. Recently very interested in learning Rust and Go.
+1. Javascript, Node.Js
+2. Python
+3. Recently very interested in learning Rust.
 
 the framework that I use often:
 1. Next.Js,
